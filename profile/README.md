@@ -48,7 +48,7 @@ Este archivo nos permite correr todo el proyecto, esto incluye:
 - Red de Docker
 - Volúmenes necesarios}
 
-A continuación, por medio del siguiente link se puede acceder al repositorio: [queryResultsService](https://github.com/Proyecto-de-Grado-Brainy-Noise/docker-compose).
+A continuación, por medio del siguiente link se puede acceder al repositorio: [Docker Compose](https://github.com/Proyecto-de-Grado-Brainy-Noise/docker-compose).
 
 
 # Licencia
