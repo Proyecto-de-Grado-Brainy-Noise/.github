@@ -1,9 +1,9 @@
 ![logo-no-background](https://github.com/Proyecto-de-Grado-Brainy-Noise/.github/assets/78034097/2da46487-16de-45d4-a66d-14f4f95f0581)
 
 # Integrantes:
- - Estefanía Bermúdez Arroyo
- - Jessica Tatiana Naizaque Guevara 
- - Juan Sebastián Vargas Torres 
+ - Estefanía Bermúdez Arroyo ([EstefaniaBermudezA](https://github.com/EstefaniaBermudezA))
+ - Jessica Tatiana Naizaque Guevara ([JessicaNaizaque](https://github.com/JessicaNaizaque))
+ - Juan Sebastián Vargas Torres ([Sebas102507](https://github.com/Sebas102507))
 
 # Descripción general:
 
@@ -49,13 +49,13 @@ Este archivo nos permite correr todo el proyecto, esto incluye:
 - Volúmenes necesarios}
 
 A continuación, por medio del siguiente link se puede acceder al repositorio: [queryResultsService](https://github.com/Proyecto-de-Grado-Brainy-Noise/docker-compose).
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Licencia
+
+Este proyecto está bajo la licencia del MIT. Ver la [LICENCIA](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) para más detalles.
+
+@article{title={rainy Noise},
+  author={Bermúdez, Naizaque y Vargas},
+  year={2023}
+}
