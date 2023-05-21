@@ -19,6 +19,10 @@ Este componente es el encargado de la creación de la interfaz gráfica con la c
   <img src="https://github.com/Proyecto-de-Grado-Brainy-Noise/.github/assets/78034097/8a7fe392-81ba-401a-9914-1988e2fcc359" width="400" height="500" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/Proyecto-de-Grado-Brainy-Noise/.github/assets/78034097/77ea0255-4023-48ed-9fa1-b7980ba6f72d" width="6000" height="500" />
+</p>
+
 ## Gestión de Usuarios:
 
 Este componente es el encargado de manegar el CRUD de usuarios que puede realizar el usuario con rol de administrador. Este usa Spring Boot como framework y se conecta a la base datos mediante JPA. A continuación, por medio del siguiente link se puede acceder al repositorio: [user_management](https://github.com/Proyecto-de-Grado-Brainy-Noise/user_management).
@@ -55,7 +59,7 @@ A continuación, por medio del siguiente link se puede acceder al repositorio: [
 
 Este proyecto está bajo la licencia del MIT. Ver la [LICENCIA](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) para más detalles.
 
-@article{title={rainy Noise},
+@article{title={Brainy Noise},
   author={Bermúdez, Naizaque y Vargas},
   year={2023}
 }
