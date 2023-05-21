@@ -20,7 +20,7 @@ Este componente es el encargado de la creación de la interfaz gráfica con la c
 </p>
 
 <p align="center">
-  <img src="https://github.com/Proyecto-de-Grado-Brainy-Noise/.github/assets/78034097/77ea0255-4023-48ed-9fa1-b7980ba6f72d" width="6000" height="500" />
+  <img src="https://github.com/Proyecto-de-Grado-Brainy-Noise/.github/assets/78034097/77ea0255-4023-48ed-9fa1-b7980ba6f72d" width="6000" height="400" />
 </p>
 
 ## Gestión de Usuarios:
